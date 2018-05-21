@@ -1,0 +1,11 @@
+.plyr .button {
+  position:absolute;
+  top:0;
+  right:0;
+  color:#fff;
+  padding:20px;
+}
+
+.plyr--full-ui input[type=range] {
+  color: #942927;
+}
